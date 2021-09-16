@@ -19,13 +19,19 @@ body{
 }
 
 #text-input{
-    height: 20vh;
+    height: 18vh;
     width: 50%;
     display: block;
-    margin-top: 1rem;
+    margin-top: 2rem;
     margin-left: 10rem;
     padding: 1rem;
 }
+
+#output{
+    margin-top: 1rem;
+    margin-left: 10rem;
+    font-weight: bold;
+} 
 
 .navigation{
     background-color: var(--primary-color);
@@ -37,10 +43,10 @@ body{
 }
 
 #text-output{
-    height: 20vh;
+    height: 18vh;
     width: 50%;
     display: block;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
     margin-left: 10rem;
     padding: 1rem;
 }
@@ -49,8 +55,8 @@ body{
     background-color: var(--primary-color);
     text-align: center;
     position: fixed;
-    bottom: 0;
     width: 100%;
-    margin-top: 3rem;
+    bottom: 0;
+    margin-top: 2rem;
     padding: 2rem 1rem;
 }
