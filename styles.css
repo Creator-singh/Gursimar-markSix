@@ -39,7 +39,7 @@ body{
     padding: 1.5rem;
     font-weight: bolder;
     font-size: 3rem;
-
+    width: 100%;
 }
 
 #text-output{
