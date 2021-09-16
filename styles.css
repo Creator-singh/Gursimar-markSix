@@ -1,5 +1,9 @@
 :root{
-    --primary-color: #001C55;
+    --primary-color: #f5e050;
+}
+
+body{
+    margin: 0px;
 }
 
 #button-translate{
@@ -7,13 +11,31 @@
     width: 6rem;
     border-radius: 0.5rem;
     border: 1px solid;
-    color: white;
+    color: black;
     background-color: var(--primary-color);
-    margin: 1rem 10rem;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    font-weight: 600;
 }
 
-#input-text{
-    height: 10rem;
-    width: 70%;
-    margin: 1rem ;
+#text-input{
+    height: 20vh;
+    width: 50%;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    padding: 1rem;
+}
+
+.container{
+    padding: 0rem 1rem;
+}
+
+.navigation{
+    background-color: var(--primary-color);
+    text-align: center;
+    padding: 1.5rem;
+    font-weight: bolder;
+    font-size: 3rem;
+
 }
