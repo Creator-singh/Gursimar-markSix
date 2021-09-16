@@ -27,10 +27,6 @@ body{
     padding: 1rem;
 }
 
-.container{
-    padding: 0rem 1rem;
-}
-
 .navigation{
     background-color: var(--primary-color);
     text-align: center;
@@ -39,3 +35,13 @@ body{
     font-size: 3rem;
 
 }
+
+#text-output{
+    height: 20vh;
+    width: 50%;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    padding: 1rem;
+}
+
