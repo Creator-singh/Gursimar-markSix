@@ -14,7 +14,7 @@ body{
     color: black;
     background-color: var(--primary-color);
     margin-top: 1rem;
-    margin-left: 10rem;
+    margin-left: 5rem;
     font-weight: 600;
 }
 
@@ -23,13 +23,13 @@ body{
     width: 50%;
     display: block;
     margin-top: 2rem;
-    margin-left: 10rem;
+    margin-left: 5rem;
     padding: 1rem;
 }
 
 #output{
     margin-top: 1rem;
-    margin-left: 10rem;
+    margin-left: 5rem;
     font-weight: bold;
 } 
 
@@ -47,7 +47,7 @@ body{
     width: 50%;
     display: block;
     margin-top: 0.5rem;
-    margin-left: 10rem;
+    margin-left: 5rem;
     padding: 1rem;
 }
 
